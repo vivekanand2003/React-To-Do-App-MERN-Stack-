@@ -1,0 +1,12 @@
+
+
+.todo-background {
+  background-image: url('../public/image/todo.jpg');
+  height:100vh;
+  background-size:cover;
+}
+
+#task-list{
+  max-height: calc(100vh - 30px); /* adjust 100px based on our header/footer */
+  overflow-y: auto;
+}
