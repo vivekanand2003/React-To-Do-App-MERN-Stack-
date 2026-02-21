@@ -98,7 +98,7 @@ react-todo-app/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/react-todo-app.git
+git clone https://github.com/vivekanand2003/React-To-Do-App-MERN-Stack-
 cd react-todo-app
 ```
 
