@@ -241,7 +241,7 @@ Body:
 
 ➕ Add Task
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/426e6615-4600-4f59-a2dd-ce9fad8be9d7" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e9c43e1-e1d5-41c2-be8f-4c19aec8617c" />
+<img width="1366" height="610" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/af012c58-5709-446b-bba5-bc9d10e7adf7" />
 
 # ✏️ Edit Task
 <img width="1366" height="768" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/8c14cf07-5e10-4f0a-acb2-d8bf9b0105ab" />
